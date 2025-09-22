@@ -1,0 +1,18 @@
+{
+    "title": "LNDT3.1 | Aeterna Claritas",
+    "publisher": "INSTITUT \ud83e\udd8b IA INC.",
+    "assertions": [
+        {
+            "type": "integrity",
+            "value": "SHA256"
+        },
+        {
+            "type": "licence",
+            "value": "CC-BY 4.0 / MIT"
+        },
+        {
+            "type": "doi",
+            "value": "10.5281/zenodo.17174963"
+        }
+    ]
+}

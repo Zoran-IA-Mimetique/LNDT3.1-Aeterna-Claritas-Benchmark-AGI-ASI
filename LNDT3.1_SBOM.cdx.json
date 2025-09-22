@@ -1,0 +1,29 @@
+{
+    "bomFormat": "CycloneDX",
+    "specVersion": "1.5",
+    "version": 1,
+    "metadata": {
+        "component": {
+            "name": "LNDT3.1 Jury Evaluation",
+            "version": "1.0",
+            "type": "application"
+        }
+    },
+    "components": [
+        {
+            "name": "Synapse-\u03a9",
+            "type": "AI",
+            "version": "1.0"
+        },
+        {
+            "name": "Nexus-7",
+            "type": "AI",
+            "version": "1.0"
+        },
+        {
+            "name": "Dr. Elara Voss",
+            "type": "Human",
+            "version": "1.0"
+        }
+    ]
+}
